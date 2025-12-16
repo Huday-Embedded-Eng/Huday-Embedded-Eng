@@ -1,16 +1,62 @@
-## Hi there 👋
+## Hi there 👋 I'm Huday Kiran
 
-<!--
-**Huday-Embedded-Eng/Huday-Embedded-Eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical & Electronics Engineer | Aspiring Embedded Engineer  
+Passionate about Embedded Systems Architecture & Innovation
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technical Skills
+- Embedded C, C/C++
+- ARM7TDMI-S (LPC21xx Series)
+- ARM Cortex-M0+ (Raspberry Pi Pico – RP2040)
+- Bare-Metal Programming
+- Interrupt Handling (External, Timer, Peripheral Interrupts)
+- RTOS Basics
+- GPIO, ADC, UART, SPI, I2C
+- Keil, Arduino IDE
+- Git & GitHub
+- Proteus Simulation & Debugging
+
+---
+
+## 📂 Projects
+
+### ⏰ EnviroClock – Digital Multi-Alarm & Room Temperature Monitoring System
+- Designed a digital clock system with **multiple configurable alarms**
+- Implemented **room temperature monitoring** using analog sensors
+- Used **timer interrupts** for accurate timekeeping
+- Handled **external interrupts** for alarm control and user inputs
+- Displayed real-time clock and temperature data on LCD
+- Platform: **ARM7 (LPC21xx Series)**
+
+---
+
+### 🌡️ Edge-to-Cloud Thermo Monitoring System with Dynamic Set-Point Control
+- Developed a **temperature monitoring system** on ARM7 platform
+- Implemented **dynamic set-point control** for temperature thresholds
+- Processed sensor data at the **edge device**
+- Enabled data transmission from **edge to cloud** for monitoring
+- Used **interrupt-driven data acquisition** for efficiency
+- Platform: **ARM7 (LPC21xx Series)**
+
+---
+
+## 🌱 Currently Learning
+- Embedded Firmware Architecture
+- RTOS Concepts
+- Driver Development
+- Optimization Techniques
+
+---
+
+## 🎯 Career Interests
+- Embedded Systems Development
+- Firmware Engineering
+- Low-Level Programming
+- ARM-Based Microcontroller Systems
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/hudaykiran-siddi
+
