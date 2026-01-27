@@ -8,12 +8,12 @@ Passionate about Embedded Systems Architecture & Innovation
 ## 🔧 Technical Skills
 - Embedded C, C/C++
 - ARM7TDMI-S (LPC21xx Series)
-- ARM Cortex-M0+ (Raspberry Pi Pico – RP2040)
+- ARM Cortex-M4 (STM32F4xx series)
 - Bare-Metal Programming
 - Interrupt Handling (External, Timer, Peripheral Interrupts)
 - RTOS Basics
 - GPIO, ADC, UART, SPI, I2C
-- Keil, Arduino IDE
+-  Keil µVision, STM32CubeIDE, Flash Magic, Arduino IDE, VS Code
 - Git & GitHub
 - Proteus Simulation & Debugging
 
